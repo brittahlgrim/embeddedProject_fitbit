@@ -1,0 +1,4 @@
+module.exports = {
+	CONSUMER_KEY : '22CL9L',
+	CONSUMER_SECRET : 'f89f6fa1107dd5bffd771b005ddb7b82'
+}
